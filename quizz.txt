@@ -1,0 +1,2039 @@
+Which of the following networks use store-and-forward switching operation?
+
+
+A, Computer networks
+B, Telegraph networks
+C, Telephone networks
+D, Wireless Networks<term>AB<row>There are similarities between message switching and packet switching. Which of following that applies to packet switching but not to message switching?
+
+A, Variable length of information block
+B, Supporting multiple applications
+C, Store-and-forward
+D, All of the above<term>B<row>Which of the following networks can be connection-oriented?
+
+A, Telegraph networks
+B, Computer networks
+C, Telephone networks
+D, All of the above<term>BC<row>A protocol is a set of precise and unambiguous rules that governs
+
+A, How two or more communicating entities in a layer are to interact
+B, Messages that can be sent and received
+C, Actions that are to be taken when a certain event occurs
+D, All of the above<term>D<row>DNS is a domain-name-service that responds to queries of domain name to IP address or IP address to domain name. DNS uses services provided by
+
+A, TCP
+B, UDP
+C, HTTP
+D, None of the above<term>B<row>A network used to join the individual networks at different sites into one extended network is called
+
+
+A, PAN
+B, LAN
+C, SAN
+D, VPN<term>D<row>Upon receipt of a bad segment, UDP?
+
+A, It does flow control
+B, It does not do flow and error control
+C, It does error control
+D, Retransmission<term>B<row>Which of following protocol is HTTP built upon?
+
+
+A, IP
+B, TCP
+C, UDP
+D, SMTP<term>B<row>Which of following requirements are necessary for packet networks to support multiple and diverse applications?
+
+
+A, Transfer arbitrary message size
+B, Low delay for interactive applications
+C, Packets have maximum length
+D, All of the above<term>D<row>What was the concern of the telephone system that motivated the ARPANET design?
+
+A, Scalability
+B, Vulnerability
+C, Efficiency
+D, None of the above<term>B<row>Question 4
+Which of the following is an application layer protocol?
+
+
+A, HTTP
+B, UDP
+C, DNS
+D, TCP<term>A<row>Which of the following are features of ARPANET design?
+
+
+A, Connectionless packet transmission
+B, Routing tables at the packet switches
+C, Destinations identified by unique addresses
+D, All of the above<term>D<row>Bluetooth is an example of
+
+
+A, Local Area Network
+B, Wide Area Network
+C, Metropolitan Area Network
+D, Personal Area Network<term>D<row>In the layer hierarchy as the data packet moves from the upper to the lower layers, headers are
+
+A, Removed
+B, Modified
+C, Added
+D, Rearranged<term>C<row>The ________ is the physical path over which a message travels
+
+
+A, Protocol
+B, Route
+C, Medium
+D, Path<term>C<row>Three or more devices share a link in ________ connection
+
+A, Unipoint
+B, Multipoint
+C, Point to Point
+D, None of the above<term>B<row>Which of the following is true for Transport Control Protocol
+
+A, Connection oriented
+B, Process to Process
+C, Transport layer protocol
+D, Connectionless<term>A<row>Which OSI layer is responsible for providing end-to-end communication with reliable service?
+
+
+A, Transport layer
+B, Network layer
+C, Session layer
+D, Data link layer<term>A<row>Which OSI layer is responsible for dividing the transmitted bit stream into frames?
+
+A, Network layer
+B, Transport layer
+C, Application layer
+D, Data link layer<term>D<row>Which OSI layer is responsible for determining which route through the network to use?
+
+A, Network layer
+B, Data link layer
+C, Transport layer
+D, None of the above<term>A<row>Question 4
+Which feature does the data link layer and transport layer have in common?
+
+
+A, Medium access control
+B, All of the above
+C, Congestion control
+D, Flow control<term>D<row>Which protocol glues the network of networks together as the Internet?
+
+A, TCP
+B, UDP
+C, IP
+D, None of the above<term>C<row>In a LAN, which address is used to transfer frames to appropriate destination?
+
+A, IP address
+B, Physical address
+C, Domain name
+D, None of the above<term>B<row>Question 2
+Suppose an application layer entity wants to send an L-byte message to its peer process, using an existing TCP connection. The TCP segment consists of the message plus 20 bytes of header. The segment is encapsulated into an IP packet that has an additional 20 bytes of header. The IP packet in turn goes inside an Ethernet frame that has 18 bytes of header and trailer. What is the bandwidth utilization in terms of the percentage of the transmitted bits in the physical layer corresponds to message information if L = 500 bytes?
+
+A, 100%
+B, 70%
+C, 90%
+D, 80%<term>C<row>Of the following services, which service(s) does the IP layer provides?
+
+A, Error control
+B, Flow control
+C, Connection-based data transfer
+D, None of the above<term>D<row>Which of the following is true about the ways in which the OSI reference model and TCP/IP reference model differ.
+
+A, They differ in the number of layers
+B, TCP/IP model does not have presentation layer, but OSI model has
+C, TCP/IP model does not have session layer, but OSI model has
+D, All of the above<term>D<row>Which of following statements is true about how the data link layer and transport layer differ?
+
+A, Data link layer is concerned with framing and the transport layer is not
+B, Data link layer is concerned with flow control and the transport layer is not
+C, Data link layer is concerned with multiplexing and the transport layer is not
+D, All of the above<term>A<row>This layer is an addition to OSI model
+
+A, Application layer
+B, Presentation layer
+C, Session layer
+D, Presentation layer and Session layer<term>D<row>The functionalities of presentation layer includes
+
+A, Data compression
+B, Data encryption
+C, Data decryption
+D, All of the above<term>D<row>Which of the following applications would you select TCP protocol for?
+
+A, File transfer
+B, Domain name service
+C, Web browsing
+D, None of the above<term>AC<row>In BSD socket API, which type of socket is used to create a TCP socket?
+
+A, SOCK_STREAM
+B, SOCK_RAW
+C, SOCK_DGRAM
+D, None of the above<term>A<row>Question 3
+In BSD socket API, which type of socket is used to create a UDP socket?
+
+A, SOCK_STREAM
+B, SOCK_DGRAM
+C, SOCK_RAW
+D, None of the above<term>B<row>In BSD socket API, which system call is used to assign a network address to the socket?
+
+A, listen()
+B, None of the above
+C, connect()
+D, bind()<term>D<row>Question 5
+In BSD socket API, if a client knows the server name but not server's network address, what system call should the client use to get server's network address?
+
+A, Connect()
+B, gethostbyname()
+C, None of the above
+D, gettimeofday()<term>B<row>In a transmission system, which of the following statement is true for a receiver
+
+A, Receives energy from medium
+B, Converts information into signal suitable for transmission
+C, Converts received signal suitable for delivery to user
+D, All of the above<term>AC<row>In digital transmission, long distance digital communications require the use of a generator to recover original data sequence and re-transmits on next segment
+
+A. True
+B, False<term>A<row>Question 8
+In twisted pair, a category 5 UTP cable can support a data rate of up to 16MHz
+
+A, True
+B, False<term>B<row>Which of the following statement is true for optical fiber
+
+A, Plentiful bandwidth for new services
+B, Dominates long distance transmission
+C, Distance less of a cost factor in communications
+D, All of the above<term>D<row>Which of the following are advantages of optical fiber
+
+A, Noise immunity
+B, No corrosion
+C, Extremely low bandwidth
+D, Wavelength dependency<term>AB<row>Given a 7-bit information frame (0, 1, 0, 1, 1, 0, 1), what is the even parity bit?
+
+A, 1
+B, 0
+C, None of the above<term>B<row>Which of following statements are true for single-bit parity error detection?
+
+A, It can detect all single bit errors in an information frame
+B, It can detect all double bit errors in an information frame
+C, It can detect all tripe bit errors in an information frame
+D, None of the above<term>AC<row>Which of following statements are true for two-dimensional parity error detection?
+
+A, It can detect all single bit errors in an information frame
+B, It can correct all single bit errors in an information frame
+C, It can detect all double bit errors in an information frame
+D, All of the above<term>D<row>Assume bit errors occur at random. If each bit has 50% probability to be in error by transmission. What is the probability of a four-bit frame to be in error by transmission?
+
+A, 1/4
+B, 1/8
+C, 1/16
+D, None of the above<term>C<row>What is the binary sequence that corresponds to polynomial code X^3 + x^2 + 1?
+
+A, 1110
+B, 0111
+C, 1101
+D, 111<term>C<row>Block codes are generated using _____.
+
+A, Generator matrix
+B, Generator polynomial
+C, Both of the mentioned
+D, None of the mentioned<term>A<row>Which of the following is true for two-dimensional parity check
+
+A, Arrange information in rows
+B, More parity bit to improve coverage
+C, Arrange information in columns
+D, Add multiple parity bits to each column<term>BC<row>Polynomial codes are implemented using shift register circuits
+
+A, True
+B, False<term>A<row>Question 9
+What is the binary equivalent of the following polynomial arithmetic
+x^7 + x^6 + x^5 + x^2 + 1
+
+A, 11101101
+B, 11100111
+C, 11011101
+D, 1100101<term>D<row>Using Euclidean Division, what will be the remainder of 70 by 999 where 70 is the divisor and 999 is the dividend
+
+A, 17
+B, 14
+C, 21
+D, 19<term>D<row>In networks where errors are infrequent, which approach is favored for efficiency?
+
+A, Hop-by-hop approach
+B, End-to-end approach
+C, Either one of the above
+D, Neither one of the above<term>B<row>Which of the following statements is true about the stop-and-wait ARQ protocol?
+
+A, Stop-and-wait is only efficient if the link delay-bandwidth product is large
+B, Stop-and-wait is only efficient if the link delay-bandwidth product is small
+C, Stop-and-wait is only efficient if the link bandwidth is low
+D, Stop-and-wait is only efficient if the link bandwidth is high<term>B<row>Consider a situation where an interactive application produces a packet to send each keystroke from the client and the server echoes each keystroke that it receives from the client. Which of following strategies for sending ACK frames in a Go-Back-N is appropriate for the situation?
+
+A, send an ACK frame immediately after each frame is received
+B, send an ACK frame after every other frame is received
+C, send an ACK frame when the next piggyback opportunity arises
+D, Any one of the above<term>C<row>Consider a bulk data transfer application where a server sends a large file that is segmented in a number of full-size packets that are to be transferred to the client. Assume the channel has a low probability of error. Which of following strategies for sending ACK frames in a Go-Back-N is appropriate for the situation?
+
+A, send an ACK frame when the next piggyback opportunity arises
+B, send an ACK frame immediately after each frame is received
+C, send an ACK frame after every other frame is received
+D, Any one of the above<term>C<row>ARQ protocols combine error detection, retransmission and sequence numbering to provide reliability
+
+A, True
+B, False<term>A<row>A service model specifies a level of performance that can be expected in the transfer of information.
+
+A, True
+B, False<term>A<row>A service offered at a given layer can include which of the following feature(s)
+
+A, Sequencing
+B, Reliability
+C, Timing
+D, All of the above<term>D<row>Digital communication technologies may introduce errors in communication, which of the following can be used to provide reliable communication
+
+A, TCP
+B, DNS
+C, UDP
+D, HDLC<term>AD<row>Ensuring that information is not altered during transfer is associated with
+
+A, Authentication
+B, Confidentiality
+C, Integrity
+D, Availability<term>C<row>Given 3 bits for sequence numbers, what is the maximum sliding window size at the receiver in Go Back 3 ARQ?
+
+A, 3
+B, 7
+C, 8
+D, None of the above<term>B<row>Given 3 bits for sequence numbers in Selective Repeat ARQ. If the sender already set the sliding window size to be 4, what is the maximum sliding window size at the receiver?
+
+A, 3
+B, 8
+C, 7
+D, None of the above<term>D<row>In the scenario above, what should be the value of frame number y at receiver B?
+
+A, 3
+B, 8
+C, 7
+D, None of the above<term>C<row>If the probability of error is very low in a communication link, which of the following statements is true about performance of ARQ protocol?
+
+A, Stop-and-wait and Go-back-N ARQ protocols have similar performance
+B, Stop-and-wait and Selective Repeat ARQ protocols have similar performance
+C, Go-back-N ARQ and Selective Repeat ARQ protocols have similar performance
+D, None of the above<term>C<row>In peer-to-peer protocol, the purpose of Automatic Repeat Request is
+
+A, to ensure a sequence of information packet is delivered with an ACK request
+B, to ensure a sequence of information packet is delivered in order
+C, to ensure a sequence of information packet is delivered without errors or duplication despite transmission errors and losses
+D, to ensure a sequence of information packet is delivered out-of-order<term>BC<row>Which of the basic elements of ARQ is associated with negative acknowledgement
+
+A, Timeout mechanism
+B, ACKs
+C, NAKs
+D, Error detecting code<term>C<row>In Go-Back-N ARQ, a procedure where transmission of a new frame is begun before the completion of time of the previous frame transmission is called
+
+A, Transitioning
+B, Pipelining
+C, Channeling
+D, None of the above<term>B<row>In Stop-and-Wait protocol, sequence number are not required
+
+A, True
+B, False<term>B<row>The disadvantage of Stop-and-Wait protocol
+
+A, Error free communication channel does not exist
+B, Acknowledgement may get lost
+C, Deadlock situation may occur
+D, All of the above<term>D<row>Which of the following statements are true for the best-effort service of IP?
+
+A, Packets can arrive with errors or be lost
+B, Packets can arrive out-of-order
+C, Packets can arrive after very long delays
+D, All of the above<term>D<row>Which of following services belong to the data link layer?
+
+A, Insert framing information into the transmitted stream to indicate the boundaries that define frames
+B, Provide error control to ensure reliable transmission
+C, Provide flow control to prevent the transmitter from overrunning the receiver buffer
+D, All of the above<term>D<row>Which ARQ flow control protocol is used by TCP?
+
+A, Stop-and-Wait
+B, Selective Repeat
+C, Go-back-N
+D, None of the above<term>B<row>By framing, frame boundaries can be determined using
+
+A, Character Counts
+B, Control Characters
+C, Flags
+D, All of the above<term>D<row>Which of following statements are true about framing protocols?
+
+A, PPP uses character-based framing which requires byte stuffing
+B, HDLC uses Flag-based framing which required bit stuffing
+C, All of the above
+D, None of the above<term>C<row>In IP network, which of the following statement is incorrect
+
+A, Packets can arrive out-of-order
+B, Packets can arrive with errors or be lost
+C, Packets can arrive after long delays
+D, Packets always arrive on time<term>D<row>Framing involves identifying the beginning and end of a block of information within a digital stream
+
+A, True
+B, False<term>A<row>Which of the following statements are true for PPP byte stuffing
+
+A, Malicious users may inflate bandwidth
+B, Size of frame varies unpredictably due to byte insertion
+C, All of the above
+D, None of the above<term>C<row>In PPP authentication, which of the following is true for Password Authentication Protocol
+
+A, After several attempts, LCP closes link
+B, Initiator and authenticator share a secret key
+C, Transmitted unencrypted, susceptible to eavesdropping
+D, Initiator must send ID and password<term>ACD<row>In HDLC frame format, flag is used to identify secondary station (1 or more octets)
+
+A, True
+B, False<term>B<row>Question 1
+Perform the bit stuffing procedure for the following binary sequence: 1101111111011111110101. What is the outcome?
+
+A, 110111110110111110110101
+B, 110111111101111111010100
+C, 0010000000100000001010
+D, None of the above<term>A<row>Perform bit de-stuffing for the following sequence: 11101111101111100111110.
+
+A, 11101111111111011111
+B, 00010000010000011000001
+C, 11100111111110011111
+D, None of the above<term>A<row>PPP is a data link protocol for point-to-point lines in Internet. Its framing is based on which of the following?
+
+A, Byte stuffing
+B, Bit stuffing
+C, Word stuffing
+D, None of the above<term>A<row>HDLC is another data link control protocol widely in use. Its framing is based on which of the following?
+
+A, Byte stuffing
+B, Bit stuffing
+C, Word stuffing
+D, None of the above<term>B<row>Which of following statements are true for HDLC?
+
+A, supports various data transfer modes
+B, supports multi-point links and point to point links
+C, implements error control and flow control mechanisms
+D, All of the above<term>D<row>Question 6
+In PPP authentication, which of the following is true for Challenge-Handshake Authentication Protocol (CHAP)
+
+A, Initiator and authenticator share a secret key
+B, Initiator must send ID and password
+C, After several attempts, LCP closes link
+D, Authenticator can reissue challenge during session<term>AD<row>In error detection and loss recovery, which of the following statement is correct
+
+A, Frames may undergo errors in transmission
+B, CRCs detect errors and such frames treated as lost
+C, Frames lost due to loss-of-synchronization or receiver buffer overflow
+D, All of the above<term>D<row>In multiplexing, Last IN First Out (LIFO) is used to determine the order of packet transmission
+
+A, True
+B, False<term>B<row>Generic Framing Procedure (GFP) allows the implementation of multiple transport modes that may coexist within the same transport channel
+
+A, True
+B, False<term>A<row>In Generic Framing Procedure (GFP), which of the following sentences are correct
+
+A, GFP uses a variation of HEC-based self delineation technique
+
+B, GFP provides flexible encapsulation framework that supports either a fixed or variable length frame structure
+C, GFP uses an explicit payload length indicator provided in its frame header to accommodate variable length PDUs
+D, GFP rely on byte-stuffing mechanism to delineate protocol data units (PDUs)<term>ABC<row>What is the primary function of medium access control?
+
+A, It is to deal with the flow control of a shared communication link.
+B, It is to minimize or eliminate the incidence of collisions of a shared communication link.
+C, It is to deal with the congestion control of a shared communication link.
+D, None of the above<term>B<row>What is the primary benefit provided by the Slotted ALOHA compared to ALOHA?
+
+A, Higher maximum throughput
+B, Lower access delay
+C, Both of the above
+D, None of the above<term>A<row>What is the vulnerable period of collisions in ALOHA?
+
+A, Round-trip propagation delay
+B, One frame transmission time
+C, Two frame transmission time
+D, None of the above<term>C<row>What is the vulnerable period of collisions in Slotted ALOHA?
+
+A, Round-trip propagation delay
+B, One frame transmission time
+C, Two frame transmission time
+D, None of the above<term>B<row>What is the vulnerable period of collisions in Carrier Sense Multiple Access (CSMA)?
+
+A, One frame transmission time
+B, None of the above
+C, Round-trip propagation delay
+D, One propagation delay<term>D<row>The primary function of Media Access Control is to minimize or eliminate the instance of the collisions to achieve a reasonable utilization of the medium
+
+A, True
+B, False<term>A<row>In media sharing techniques, which of the following are channelization approaches
+
+A, Data Division Multiple Access
+B, Time Division Multiple Access
+C, Code Division Multiple Access
+D, Frequency Division Multiple Access<term>BCD<row>Corresponding box of Carrier Sense Multiple Access/Collision Detection can be replaced by one of the
+
+A, Persistent process
+B, P-persistent process
+C, Non-persistent process
+D, I-persistent process<term>A<row>Random access is also called the
+
+A, Controlled access
+B, Channelization
+C, Authentication
+D, Contention methods<term>D<row>In Carrier Sense Multiple Access (CSMA), possibility of collision still exist because of
+
+A, Propagation delay
+B, Collision delay
+C, Transmit delay
+D, None of the above<term>A<row>Polling is a scheduling approach for dynamic medium access control. Which of following statements are correct?
+
+A, Polling can provide bounds on access delay to the shared medium
+B, All of the above
+C, Polling can provide fairness through regulated access opportunities
+C, Polling performance can deteriorate with large delay-bandwidth product<term>B<row>In a collision-free reservation system that has a large number of light-traffic stations, and the delay-bandwidth product is larger than 1. Which of following MAC protocol is a good fit for stations to reserve mini-slots?
+
+A, 1-persistent CSMA
+B, Slotted ALOHA
+C, CSMA/CD
+D, None of the above<term>B<row>In Carrier Sense Multiple Access with collision detection (CSMA-CD), how long will it take a collision to be detected and resolved?
+
+A, Round-trip propagation delay
+B, One propagation delay
+C, One frame transmission time
+D, None of the above<term>A<row>Suppose that the ALOHA protocol is used to share a 56 kbps satellite channel. Suppose that frames are 1000 bits long. What is the maximum throughput of the system in number of frames per second.
+
+A, 1 frame per second
+B, 10 frames per second
+C, 100 frames per second
+D, None of the above<term>B<row>Consider building a CSMA/CD network running at 1Gbps over a 1-km cable. The signal speed in the cable is 200,000 km/sec. What is the minimum frame size?
+
+A, 64 Bytes
+B, 640 Bytes
+C, 1250 Bytes
+D, None of the above<term>C<row>In media access control, which of the following statements are true for Channelization
+
+A, Inflexible in allocating bandwidth to users with different requirements
+B, Does not scale well to large numbers of users
+C, Widely used in internet traffic
+D, Inefficient for bursty traffic<term>ABD<row>Time-out period is equal to maximum possible propagation delay of
+
+A, Round-trip
+B, Triangle-trip
+C, Square-trip
+D, Rectangle-trip<term>A<row>In Carrier Sense Multiple Access (CSMA), if station senses medium before trying to use it then chance of collision can be
+
+A, Increased
+B, Reduced
+C, Doubled
+D, Highlighted<term>B<row>Carrier Sense Multiple Access (CSMA) is based on medium called
+
+A, Sense before transmit
+B, Listen before sending
+C, Listen before talk
+D, Sense before Collision<term>A<row>Which of the following is not true for MAC scheduling
+
+A, More efficient channel utilization
+B, Less variability in delays
+C, Can provide fairness to stations
+D, Reduced computational or procedural complexity<term>D<row>Which of following features are typically true for local area networks?
+
+A, All of the above
+B, Low error rate
+C, High speed
+D, Low round-trip delay<term>A<row>Use HDLC and Ethernet to identify similarities between medium access control and data link control protocols. Which of following statements are true?
+
+A, Both contains framing information that delineates the beginning and end of each frame.
+B, Both check the CRC in the received frames for errors
+C, Both implement error control and flow control for reliable transmission.
+D, None of the above<term>AB<row>Use IEEE 802.3 and IEEE 802.11 to discuss differences between wired and wireless LANs. Which of following statements are true about the differences?
+
+A, Station mobility
+B, Error rate
+C, Collision detection
+D, All of the above<term>D<row>Which of following is not a primary responsibility of the MAC sublayer in LANs?
+
+A, Reliable connection-oriented service
+B, Channel access
+C, Protocol data unit addressing
+D, Fragmentation and reassembly of MAC service data unit<term>A<row>In Ethernet, slot time that is at least the round-trip propagation delay, is the critical system parameter for
+
+A, upper bound on time to detect collision
+B, All of the above
+C, upper bound on time to acquire channel
+D, quantum for re-transmission scheduling<term>B<row>Which one of the following event is not possible in wireless LAN.
+
+A, Acknowledgement of data frames
+B, Collision detection
+C, Multi-mode data transfer
+D, Collision avoidance<term>B<row>In 802.11 protocol, MAC can alternate between Contention Periods (CPs) and Contention-Free Periods (CFPs)
+
+A, True
+B, False<term>A<row>CSMA/CD is not used in DCF because
+
+A, a station is unable to listen to the channel for collisions while transmitting
+B, physical carrier sense detects the presence of other WLAN users
+C, in idle state, a station is unable to listen to the channel for collisions
+D, None of the above<term>A<row>In infrastructure network supporting voice and data traffic, data traffic is transported through the CP and voice traffic through the CFP
+
+A, True
+B, False<term>B<row>In 802.11 protocol, which of the following statements are true for Basic Service Set (BSS)
+
+A, Stations in BSS can communicate with each other
+B, Multiple BSSs interconnected by Central System (CS)
+C, Distinct collocated BSS's cannot coexist
+D, Location in a Basic Service Area (BSA)<term>AD<row>Consider a Gigabit Ethernet hub with stations at a 100-meter distance and average frame size of 512 bytes. Assume the propagation speed is at 2/3 of light speed. What is the value of normalized delay-bandwidth product?
+
+A, 0.0122
+B, 0.122
+C, 1.22
+D, None of the above<term>B
+
+Normalized delay-bandwidth product equals to (Propagation delay / Frame transmission time). Propagation delay = 5*10^-7. Frame transmission time is 512 * 8 / 10^ 9.<row>Wireless data communication is compelling, because of
+
+A, Its easy and low-cost deployment
+B, Its support to personal and mobile devices
+C, Its high reliability to noise and interference
+D, All of the above<term>AB<row>Why not use CSMA/CD in a wireless LAN? The primary reason is
+
+A, The round-trip delay in a wireless LAN is too large
+B, The frame is usually very small in a wireless LAN
+C, The hidden station problem
+D, All of the above<term>C<row>In IEEE 802.11 MAC for wireless LANs, which of following inter-frame space (IFS) is used to transmit high-priority frames such as ACKs?
+
+A, SIFS
+B, DIFS
+C, None of the above
+D, PIFS<term>A<row>Which of following statements identifies the similarity between HDLC (data link control) and Ethernet (medium access control)
+
+A, All of the above
+B, Both contain framing information that delineates the beginning and end of each frame
+C, Both implement error control and flow control functions to provide reliable transmission
+D, Both provide connection-oriented packet transfer services to the network layer<term>B<row>Which multiple access technique is used by IEEE 802.11 standard for wireless LAN?
+
+A, ALOHA
+B, CDMA
+C, CSMA/CD
+D, CSMA/CA<term>D<row>Which of the following are management services offered by the MAC sublayer in wireless LAN
+
+A, Network management
+B, Storage management
+C, Roaming within ESS
+D, Power management<term>CD<row>In CSMA/CA, An amount of time divided into slots called
+
+A, Contention window
+B, Contention procedure
+C, Contention energy
+D, Contention signals<term>A<row>In medium access control sublayer, medium usage is mediated by the access control during contention period
+
+A, True
+B, False<term>B<row>In Carrier Sense Multiple Access/Collision Detection (CSMA/CD), to continue transmission process we use a
+
+A, Signal
+B, Station
+C, Access point
+D, Loop<term>D<row>Which layer LAN bridges work on?
+
+A. Transport layer
+B. Network layer
+C. Medium access control
+D. None of above<term>C<row>( 2 Answers )
+One can use repeaters, bridges and routers to interconnect two LANs. Which of the following approaches will make local traffic stay in its own LAN?
+
+A. repeaters
+B. routers
+C. bridges
+D. All of the above<term>BC<row>Of the following network layer functions, which one is optional?
+
+A. Routing
+B. Forwarding
+C. Congestion control
+D. None of the above<term>C<row>Of the following, which is a basic function of transparent bridge?
+
+A. All of the above
+B. Learns where stations are attached to the LAN
+C. Prevents loops in the topology
+D .Forwards frames from one LAN to another<term>A<row>It is possible for a network layer to provide a choice of services to the user of the network. Which of following the IP network layer offers
+
+A. All of the above
+B. connection-oriented transfer of packets with delay guarantee
+C. Best-effort connectionless service
+D. connection-oriented reliable stream service<term>C<row>( 3 Answers )
+The network layer is considered the most complex layer because of the following reasons
+
+A. Requires coordinated actions of multiple, geographically distributed network elements
+B. Responsible for displaying received information to users
+C. Challenges such as addressing and routing
+D. User scalability<term>ACD<row>An end-to-end function is best implemented at a lower level than at a higher level
+
+A. True
+B. False<term>B<row>Which of the following is an essential network function
+
+A. Forwarding
+B. Routing
+C. Priority and scheduling
+D. All of the above<term>D<row>In network layer, which of the following statement is true for packet networks
+
+A. Individual packet streams are highly bursty
+B. User demand can undergo dramatic change
+C. Internet structure is highly decentralized
+D. All of the above<term>D<row>The main purpose of access multiplexer is to combine the typically bursty traffic flows from the individual computers into aggregate flows
+
+A. True
+B. False<term>A<row>Which of the following functions can a home router perform?
+
+A. Private IP addresses in home by network address translation
+B. All of the above
+C. Local area network access using WiFi
+D. Single global IP address using DHCP<term>B<row>Consider a three hop network from the source to the destination. Let m be the packet transmission time at each hop. Let n be the propagation delay at each hop. Assume there is no queuing delay and processing time at each hop. Based on store-and-forward, what is the total time for the packet to be transmitted to the destination?
+
+A. m + n
+B. 3m + n
+C. 3m + 3n
+D. None of the above<term>C<row>Consider a three hop network from the source to the destination. Let m be the message transmission time at each hop. Let n be the propagation delay of each hop. Assume there is no queueing delay and processing time at each hop. Based on store-and-forward, what is the total time for three packets to be transmitted to the destination by packet pipelining?
+
+A. 3m + 3n
+B. 5m + 3n
+C. 9m + 9n
+D. None of the above<term>B<row>One can use repeaters, bridges and routers to interconnect two LANs. Which of the following approaches will make local traffic appear in both LANs?
+
+A. Repeater
+B. Routers
+C. Bridges
+D. All of the above<term>A<row>Packet pipelining can lead to latency in message delivery
+
+A. True
+B. False<term>B<row>In internet, switching is done by using datagram approach to packet switching at the
+
+A. Data link layer
+B. Application layer
+C. Physical layer
+D. Network layer<term>D<row>A transparent bridge's duties include
+
+A. Forwarding
+B. Blocking
+C. Filtering frame
+D .All of the above<term>D<row>For a 10Mbps Ethernet link, if the length of the packet is 32bits, the transmission delay is(in microseconds)
+
+A. 0.32
+B. 320
+C. 3.2
+D. 32<term>C<row>Which of following networks represents an example of virtual circuit switching at the network layer?
+
+A. IP
+B. ATM
+C. Both of the above
+D. All of the above<term>B<row>Consider a three hop network from the source to the destination. Let m be the message transmission time at each hop. Let n be the propagation delay of each hop. Assume there is no queueing delay and processing time at each hop. Based on cut-through switching, what is the total time for three packets to be transmitted to the destination?
+
+A. 3m + 3n
+B. 5m + 3n
+C. 9m + 9n
+D. None of the above<term>A<row>Which of following issue exists in virtual-circuit subnet but not in datagram subnet?
+
+A. Addressing
+B. State information
+C. Routing
+D. None of the above<term>B<row>Which of following describe general goals in a routing algorithm?
+
+A. Rapid responsiveness to network changes
+B. Robustness under high load and link failure
+C. Low overhead for implementation
+D. All of the above<term>D<row>Which of following describe benefits of flooding, a specialized routing approach?
+
+A. No routing table needed for routers
+B. Useful in propagating information to all nodes
+C. All of the above
+D. Always reach the destination by the fastest path<term>C<row>A Virtual-Circuit Network (VCN) is normally implemented in the
+
+A. session layer
+B. data link layer
+C. network layer
+D. Physical layer<term>B<row>( 2 answers )
+In routing approaches, which of the following statement is true for deflection routing
+
+A. Fixed, preset routing procedures
+B. No route synthesis
+C. Useful in starting up network
+D. Predefined source to destination route<term>AB<row>To reduce size of routing table, routers do lookup table on MAC address
+
+A. True
+B. False<term>B<row>Flooding may easily swamp the network as one packet creates multiple packets, possibly in exponential growth rate. What are possible means to reduce resource consumption in the network?
+
+A. Use a time-to-live field in each packet to limit its lifetime
+B. Add a unique identifier to a packet for removing its duplicate
+C. Use address and sequence number to discard duplicates
+D. All of the above<term>D<row>What are possible metrics for routing?
+
+A. Hop count
+B. Delay
+C. Bandwidth
+D. All of the above<term>D<row>In link state routing, after the construction of link state packets new routes are computed using
+
+A. Dijkstra's algorithm
+B. Bellman Ford algorithm
+C. Leaky bucket algorithm
+D. None of the above<term>A<row>A subset of a network that includes all the routers but contains no loops is called
+
+A. Broadcast structure
+B. spanning tree
+C. Multi-destination routing structure
+D. None of the above<term>B<row>In a router, which of the following statement is true for creating routing tables
+
+A. Need information on state of links
+B. Need to distribute link state information using a routing protocol
+C. Need to compute routes based on information
+D. All of the above<term>D<row>In a virtual-circuit packet network, routing is determined during connection set-up
+
+A. True
+B. False<term>A<row>In deflection routing, bufferless operation is considered a disadvantage due to packet loss
+
+A. True
+B. False<term>B<row>What is the root problem of Bellman-Ford algorithm for distance vector approach?
+
+A. Counting to infinity
+B. Flooding overhead
+C. Cannot work in IP
+D. All of the above<term>A<row>What is the root problem of link state routing?
+
+A. Counting to infinity
+B. Flooding overhead
+C. Slow reaction to link failures
+D. All of the above<term>B<row>Which of following describe the benefits of link state routing compared to distance vector routing?
+
+A. Fast convergence
+B. Support for multiple metrics
+C. Support for multiple paths to a destination
+D. All of the above<term>D<row>Which of following is the implementation of distance vector approach in the IP routing protocol?
+
+A. RIP
+B. OSPF
+C. BGP
+D. None of the above<term>A<row>Which of following is the implementation of link state approach in the IP routing protocol?
+
+A. RIP
+B. OSPF
+C. BGP
+D. None of the above<term>B<row>In Routing Information Protocol (RIP), the use of max number limited to 15 limits the count-to-infinity problem
+
+A. True
+B. False<term>A<row>In an OSPF network, routers in area only knows complete topology inside area and limits the flooding of link-state information to area
+
+A. True
+B. False<term>A<row>(2 answers) 
+In link state routing, which of the following are possible steps taken to resolve the problem of old update messages
+
+A. Add time stamp to each update message
+B. Add sequence number to each update message
+C. Add a null number to each update message
+D. None of the above<term>AB<row>In Asynchronous Transfer Mode (ATM), which of the following is an examples of supported services
+
+A. Real time voice and video
+B. Circuit emulation for digital transport
+C. Data traffic with bandwidth guarantees
+D. All of the above<term>D<row>In Asynchronous Transfer Mode (ATM), the packet structure attribute simplifies implementation and ensures high speed transfer
+
+A. True
+B. False<term>B<row>Which of the following features are true for asynchronous transfer mode (ATM)?
+
+A. It supports quality of service
+B. All of the above
+C. It only supports fixed-length packets
+D. It is connection-oriented<term>B<row>In RIP operation, which of the following statement is correct
+
+A. Router sends update message to neighbors every 30 sec
+B. To deal with changes in topology such as a link failure, a router
+expects an update from each of its neighbors within 180 sec
+C. Convergence speed up by triggered updates
+D. All of the above<term>D<row>( 2 answers )
+What are the limitations of RIP protocol
+
+A. Limited metric use
+B. Slow convergence
+C. Fixed number of hops
+D. Update message overhead<term>AB<row>( 3 answers )
+In Open Shortest Path First (OSPF), which of the following statements are correct
+
+A. Enables each router to learn complete network topology
+B. OSPF typically converges slower than RIP when there is a failure in the network
+C. Allows routers to build shortest path tree with router as root
+D. Each router builds an identical link-state database<term>ACD<row>Which of the following is a type of router defined in OSPF
+
+A. Internal router
+B. Area border router
+C. Backbone router
+D. All of the above<term>D<row>In a distance vector routing, if a link fails
+
+A. All routers immediately update their link database and recalculate their shortest path
+B. Neighboring routers exchange routing tables that may use failed links
+C. Routers set link distance to infinity and floods the network with an update packet
+D. All of the above<term>B<row>Based on traffic granularity, which of the following levels is traffic management not usually classified into?
+
+A. Flow level
+B. Byte level
+C. Flow-aggregated level
+D. Packet level<term>B<row>Which of following statements is true for FIFO queueing?
+
+A. In FIFO queueing, all packet flows share the same buffer
+B. FIFO queueing cannot provide differentiated QoS to packet flows
+C. All of the above
+D. In FIFO queueing, arriving packets will be discarded if the buffer is full<term>C<row>Which of following is not a packet-level mechanism?
+
+A. Fair queueing
+B. Token bucket shaping
+C. Head-of-line priority queueing
+D. Random early detection<term>B<row>What are typical end-to-end Quality-of-Service factors?
+
+A. Jitter
+B. Packet delay
+C. Packet loss rate
+D. All of the above<term>D<row>By Random Early Detection (RED), when a given source transmits at a higher rate than others, the source will
+
+A. Achieves a higher bandwidth
+B. Suffers a higher packet-dropping rate
+C. Achieves a lower waiting delay
+D. Suffers a lower packet-dropping rate<term>B<row>The simplest approach to queue scheduling is First-In, First-out queueing, where all packet flow make use of different buffer
+
+A. True
+B. False<term>B<row>In FIFO queueing, delay and loss of packets depends on _________ and _________
+
+A. Packet size, sequence number
+B. inter-arrival, packet lengths
+C. routing path, sequence number
+D. RTT value, packet lengths<term>B<row>Which of the following is a feature of fair queueing
+
+A. Every user flows share the same logical buffer
+B. Idealized system assumes fluid flow from queues
+C. Addresses different users by order or request
+D. None of the above<term>B<row>In buffer management, drop priorities requires packet to drop when buffer is full
+
+A. True
+B. False<term>B<row>( 3 answers ) 
+What are the key mechanisms in Open-Loop Control
+
+A. Traffic shaping
+B. Admission control
+C. Re-routing
+D. Policing<term>ABD<row>Which of the following statements is wrong about fair queuing?
+
+A. Fair queueing is a packet-level traffic management
+B. Fair queueing attempts to provide equal-size buffers to flows
+C. Fair queueing attempts to provide equitable access to transmission bandwidth
+D. All of the above<term>B<row>To guarantee network performance during the lifetime of admitted flows, open-loop control relies on the following mechanism except:
+
+A. Head-of-Line queueing
+B. Traffic shaping
+C. Traffic policing
+D. Admission control<term>A<row>Which of following statements about leaky bucket is wrong?
+
+A. In leaky bucket, when the bucket is full, the new arriving packets may be discarded
+B. Leaky bucket is a flow-level traffic management mechanism
+C. In the leaky bucket, the packet output rate can be variable
+D. In the leaky bucket, the packet output rate is always constant<term>C<row>Consider a token bucket approach for traffic shaping. A token is generated every 5 micro-seconds. Each packet can hold 48 bytes of data. What is the sustainable data transmission rate by the token bucket?
+
+A. 7.68 Mbps
+B. 76.8 Mbps
+C. 768 Mbps
+D. None of the above<term>B<row>Upon which of the following condition is token bucket and leaky bucket the same?
+
+A. Leaky bucket size is zero
+B. Token bucket size is infinite
+C. Leaky bucket size is infinite
+D. Token bucket size is zero<term>D<row>( 2 answers )
+In Head of Line (HOL) priority queueing, which of the following statement is true for this approach
+
+A. High priority queue has higher waiting time
+B. Buffers can be dimensioned for different loss probabilities
+C. High priority queue has lower waiting time
+D. High priority queue services until empty<term>CD<row>In buffer management, which feature requires packet to drop when buffer is full
+
+A. Drop priorities
+B. Fairness
+C. Drop strategy
+D. Aggregation<term>C<row>( 2 answers )
+In buffer management, which of the following statement is correct for Random Early Detection (RED) technique
+
+A. Improves performance of cooperating TCP sources
+B. Reduce loss probability of misbehaving sources
+C. Packets produced by TCP will reduce input rate in response to network congestion
+D. Early drop causes some sources to reduce rate before others, causing gradual reduction in in aggregate input rate<term>AC<row>( 2 answers )
+In Closed-Loop flow control, which of the following mechanism is used in congestion control to regulate the flow from sources into network
+
+A. Buffer length
+B. Link utilization
+C. Packet header size
+D. Round-Trip Time<term>AB<row>In congestion warning, the feedback mechanism can be implicit or explicit. Which of the following is an example of implicit feedback
+
+A. A time-out due to missing acknowledgement
+B. The warning bit in ACKs
+C. Choke packets to the source
+D. None of the above<term>A<row>Which of the following protocols work at IP layer?
+
+A. ICMP
+B. ARP
+C. IGMP
+D. All of the above<term>D<row>Which of the following packet header length cannot be used in an IPv4 packet header?
+
+A. 20 Bytes
+B. 30 Bytes
+C. 60 Bytes
+D. 64 Bytes<term>B<row>How many bits used for header checksum in IPv4 packets?
+
+A. 8 bits
+B. 16 bits
+C. 32 bits
+D. None of the above<term>B<row>What is the dotted notation of an IP address of 10000000 10000111 01000100 00000101 ?
+
+A. 128.135.65.5
+B. 128.135.65.5
+C. 128.135.68.5
+D. 128.133.68.5<term>C<row>Given a network address 128.100.0.0, what is its network class type?
+
+A. Class A
+B. Class B
+C. Class C
+D. None of the above<term>B<row>Which of the following is provided at the IP layer
+
+A. Connectionless
+B. Best effort delivery service
+C. Both of the above
+D. None of the above<term>C<row>You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which will be your closest choice
+
+A. 255.255.255.224
+B. 255.255.255.192
+C. 255.255.255.240
+D. 255.255.255.248<term>A<row>What is the subnetwork number of a host with an IP address of 172.16.66.0/21
+
+A. 172.16.48.0
+B. 172.16.64.0
+C. 172.16.0.0
+D. 172.16.36.0<term>B<row>What is the first valid host on the subnetwork that the node 172.30.190.198/24 belongs to?
+
+A. 172.30.190.0
+B. 172.30.190.1
+C. 172.30.190.100
+D. None of the above<term>B<row>Based on 1.1.1.0/24, the IP address would be:
+
+A. Class A
+B. Class B
+C. Class C
+D. Class D<term>A<row>Which of following is the range of IPv4 addresses spanned by Class C?
+
+A. 1.0.0.0 to 127.255.255.255
+B. 128.0.0.0 to 191.255.255.255
+C. 192.0.0.0 to 223.255.255.255
+D. None of the above<term>C<row>If a subnet needs to accommodate up to 500 hosts. How many bits for HostID would be sufficient?
+
+A. 9
+B. 5
+C. 8
+D. 7<term>A<row>Consider a Class B network, where the subnet ID takes 9 bits. What will be the subnet mask?
+
+A. 11111111 11111111 11111110 00000000
+B. 11111111 11111111 11111111 10000000
+C. 11111111 11111111 00000000 00000000
+D. None of the above<term>B<row>Given a subnet mask 255.255.255.240, how many hosts the subnet can support?
+
+A. 14
+B. 30
+C. 62
+D. None of the above<term>A<row>A host in an organization has an IP address 150.32.64.34 and a subnet mask 255.255.240.0. What is the address of this subnet?
+
+A. 150.32.64.16
+B. 150.32.64.24
+C. 150.32.64.0
+D. 150.32.64.32<term>C<row>What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask
+
+A. 14
+B. 15
+C. 30
+D. 62<term>C<row>( 2 answers )
+When calculating usable hosts per subnet, the following formula is used 2^bits - 2. For what reason is two subtracted? (choose two)
+
+A. Broadcast
+B. Network
+C. Unicast
+D. Multicast<term>AB<row>How many hosts can be addressed on 10.0.0.0/16?
+
+A. 16
+B. 254
+C. 65536
+D. 65534<term>D<row>Which of the following is a valid IP host address given the network ID of 191.254.0.0 while using 11 bits for subnetting?
+
+A. 191.254.1.29
+B. 191.254.0.32
+C. 191.54.1.64
+D. 191.254.0.96<term>A<row>DISCO Corporation has been assigned the Class B network address 165.87.0.0. DISCO needs to divide the network into eight subnets. What subnet mask should be applied to the network to provide the most hosts per subnet?
+
+A. 255.255.240.0
+B. 255.255.248.0
+C. 255.255.192.0
+D. 255.255.224.0<term>A<row>Which class of IP addresses does CIDR performs aggregation on?
+
+A. Class C
+B. Class D
+C. Class B
+D. Class A<term>A<row>Using a CIDR notation, a prefix 205.100.0.0 of length 22 is written as 205.100.0.0/22. What network mask that the /22 notation indicates?
+
+A. 205.255.255.0
+B. 255.255.252.0
+C. 255.255.22.0
+D. None of the above<term>B<row>Perform CIDR aggregation on the following /24 IP addresses: 128.58.24.0/24, 128.58.25.0/24, 128.58.26.0/24, 128.58.27.0/24. What is the CIDR outcome?
+
+A. 128.58.28.0/22
+B. 128.58.24.0/22
+C. 128.58.28.0/24
+D. None of the above<term>B<row>Which protocol provides conversion from an IP address to a physical address?
+
+A. ARP
+B. IGRP
+C. DNS
+D. ICMP<term>A<row>Which protocol is used to assign temporary IP addresses to hosts?
+
+A. ICMP
+B. DHCP
+C. ARP
+D. None of the above<term>B<row>In order to maximize the usage of limited IP addresses, which of the following protocol is commonly used
+
+A. NAT
+B. DHCP
+C. Both of the above
+D. None of the above<term>C<row>The internet protocol allows IP fragmentation so that datagrams can be fragmented into pieces small enough to pass over a link with a smaller MTU than the original datagram size
+
+A. True
+B. False<term>A<row>Which of the following statement is correct for IPv6
+
+A. Addresses are not hierarchical and are randomly assigned
+B. There are 2.7 billion available addresses
+C. Broadcast in IPv4 have been replaced with multicast in IPv6
+D. Does not support multiple multiple IPv6 address per interface<term>C<row>Bootstrap Protocol (BOOTP) allows a diskless workstation to be remotely booted up in a network with TCP port designation for both client and server
+
+A. True
+B. False<term>B<row>( 3 answers )
+In NAT operations, which of the following statements are correct 
+
+A. NAT maps each private IP address and port number into shared global IP address and available port number
+B. Hosts inside private networks generate packets with private IP address and TCP/UDP port numbers
+C. Translation table allows packets to be routed unambiguously
+D. Translation table allows packets to be routed ambiguously<term>ABC<row>Packet is to be forwarded to a network with MTU of 592 bytes. The packet has an IP header of 20 bytes and a data part of 1484 bytes. Which of following maximum data length per fragment is legitimate?
+
+A. 592
+B. 572
+C. 568
+D. 562<term>C<row>What information is used as the entry of the lookup table in a Network Address Translation box?
+
+A. UDP port number
+B. IP address
+C. All of the above
+D. TCP port number<term>C<row>IPv6 allows fragmentation at
+
+A. Source only
+B. Intermediate routers only
+C. Both source and intermediate routers
+D. None of the above<term>A<row>Which of following fields that IPv6 dropped from IPv4?
+
+A. Header length
+B. Header checksum
+C. All of the above
+D. ID/flags/frag offset<term>C<row>in practical IPv6 application, a technology encapsulates IPv6 packets inside IPv4 packets, this technology is called
+
+A. Routing
+B. IP tunneling
+C. Network address translation
+D. Dynamic host configuration protocol<term>B<row>( 3 answers )
+Which fields in IP packet provide for fragmentation of datagrams to allow differing MTUs in the internet
+
+A. Type of service
+B. Fragmentation offset
+C. Identification
+D. Flags<term>BCD<row>IPv6 has a much larger space of
+
+A. 2^8
+B. 2^16
+C. 2^32
+D. 2^128<term>D<row>( 2 answers )
+Which of these statements are true of IPv6 representation
+
+
+A. The first 64 bits represent the dynamically created interface ID.
+B. Leading zeros in an IPv6 16 bit hexadecimal field are mandatory
+C. A single interface may be assigned multiple IPv6 addresses of any type
+D. Every IPv6 interface contains at least one loopback address<term>CD<row>Which of the following statement is true for DHCP
+
+A. Used extensively to assign temporary IP addresses to hosts
+B. Allows ISP to maximize usage of their limited IP addresses
+C Time threshold to enforce lease time
+D. All of the above<term>D<row>In Network Address Translation (NAT), which of the following statement is true for a packet with an associated private IP address at the routers in the global internet
+
+A. Discarded due to the nature of the packet address
+B. Redirected to other routers for address confirmation
+C. Create an exception and then forward the packet to the destination address in the header
+D. Forwarded to the destination address in the packet header<term>A<row>Which of following control is enabled in UDP?
+
+A. Flow control
+B. Error control
+C. Congestion control
+D. None of the above<term>D<row>Which of following information is not used in UDP de-multiplexing?
+
+A. Source IP address
+B. Destination IP address
+C. Source port number
+D. Destination port number<term>C<row>TCP adopts selective repeat ARQ protocol for flow control. In TCP flow control implementation, the window slides at
+
+A. Per-packet basis
+B. Per-byte basis
+C. Per-bit basis
+D. None of the above<term>B<row>Which flag bit in TCP header must be set when a TCP client initiates a three-way handshake?
+
+A. SYN
+B. ACK
+C. RST
+D. None of the above<term>A<row>Which flag bit in TCP header must be set when a TCP entity wants to terminate a connection?
+
+A. FIN
+B. SYN
+C. RST
+D. ACK<term>A<row>In Transmission Control Protocol (TCP), When a segment carries a combination of data and control information, it uses a
+
+A. Sequence Number
+B. Source Number
+C. Slot Number
+D. Port Number<term>A<row>Transmission Control Protocol (TCP), has same Checksum controlling like
+
+A. TCP/IP
+B. ICMP
+C. UDP
+D. IP<term>C<row>( 2 answers )
+In TCP connection management, which of the following statements are true
+
+A. Select initial sequence numbers (ISN) to protect against segments from prior connections
+B. High bandwidth connection pose a problem
+C. Use global clock to select ISN sequence number
+D. Time for clock to go through a full cycle should be less than the maximum lifetime of a segment<term>AB<row>In phases of congestion behavior, when arrival rate is greater than outgoing line bandwidth
+
+A. Knee
+B. Congestion onset
+C. Light traffic
+D. Congestion collapse<term>D<row>Which of the following services are provided by UDP
+
+A. IP
+B. De-multiplexing
+C. Error Checking
+D. All of the above<term>D<row>When a TCP client initiates a three-way handshake with a sequence number x, what will be the acknowledgement number when the TCP server replies?
+
+A. x
+B. x + 1
+C. x + y (where y is the sequence number proposed by TCP server)
+D. None of the above<term>B<row>TCP header has a field called window size. What value is the value window size set to?
+
+A. Advertised window size for congestion control
+B. Round-trip delay
+C. Advertised window size for flow control
+D. None of the above<term>D<row>In general, there are three phases of congestion behavior, i.e., light traffic, knee, congestion collapse. Which phase does TCP congestion avoidance maps to?
+
+A. Light traffic
+B. Knee
+C. Congestion collapse
+D. None of the above<term>B<row>When three duplicate acknowledgements arrive before timeout expires, what will TCP congestion control algorithm reset congestion threshold to for fast re-transmission and fast recovery?
+
+A. Reset congestion threshold to 1
+B. Reset congestion threshold to half of the current congestion window size
+C. Reset congestion threshold to the current congestion window size
+D. None of the above<term>B<row>Assume a TCP source writes a 1200-byte message in one write. Which of following is possible for the destination to receive the message?
+
+A. It receives three reads of 400 bytes each
+B. It receives two reads of 600 bytes each
+C. It receives a 1200-byte message in one read
+D. All of the above<term>D<row>The process of combining multiple outgoing protocol streams at the Transport and Network layers in TCP/IP is called Multiplexing
+
+A. True
+B. False<term>A<row>TIMELY provides a framework for rate control that depends on transport layer protocol for reliability
+
+A. True
+B. False<term>B<row>The operation of TCP congestion control can be divided into three phases, which phase requires that the congestion window size be increased by one segment upon receiving an ACK from receiver
+
+A. Congestion avoidance
+B. Slow start
+C. Congestion
+D. None of the above<term>B<row>In a router, the control of the transmission rate at the sender's side such that the router's buffer will not be over-filled is called _________ if sender is transmitting too fast
+
+A. Network under-utilization
+B. Host flooding
+C. Network congestion
+D. None of the above<term>C<row>Congestion control is associated with the window size field
+
+A. True
+B. False<term>B<row>Which of following protocol allows a host to signal its multicast group membership to its attached routers?
+
+A. ICMP
+B. IGMP
+C. OPSF
+D. None of the above<term>B<row>Which of following statements most accurately describes the reverse-path broadcasting?
+
+A. It assumes that the shortest path from the source to a given router should be the same as the shortest path from the router to the source
+B. Each link in the network to be symmetric
+C. Each packet is forwarded by a router exactly once
+D. All of the above<term>A<row>Which class of IP address does the reverse-path broadcasting uses?
+
+A. Class A
+B. Class B
+C. Class C
+D. Class D<term>D<row>Attackers attempt to gain unauthorized access to server. What type of network security threat it imposes?
+
+A. Client imposter
+B. Server imposter
+C. Man-in-Middle
+D. None of the above<term>A<row>In mobile IP, when a home agent wants to send a packet to a mobile host in a foreign network, each IP packet at the home agent will be encapsulated with an outer IP header. What is the destination IP address in the outer IP header?
+
+A. Care-of address
+B. Mobile host's address
+C. Home agent's address
+D. None of the above<term>A<row>An IP address associated with a mobile node while visiting a foreign link
+
+A. Handover address
+B. Home address
+C. Care of address
+D. Home link<term>C<row>TCP SYN flood attack exploits the TCP three-way handshake
+
+A. True
+B. False<term>A<row>In multicast communication, relationship is
+
+A. one to one
+B. many to one
+C. one to many
+D. one to all<term>C<row>What is the security requirement in case of Denial of Service?
+
+A. Privacy
+B. Availability
+C. Integrity
+D. None of the above<term>B<row>In a software defined network (SDN), which of the architectural layer is responsible for switch configuration and forwarding instruction?
+
+A. Middle layer
+B. Infrastructure layer
+C. Security layer
+D. None of the above<term>A<row>What is the security requirement in case of Malicious Code?
+
+A. Privacy
+B. Availability
+C. Integrity
+D. All of the above<term>D<row>Which of the following is not a general misconception of SDN?
+
+A. SDN is a mechanism
+B. SDN is an open API for that provides standard interface for programming switches
+C. SDN is a framework to solve a set of problems
+D. All of the above<term>C<row>Which component of NFV comprises of hardware and software required to deploy, manage and execute VNFs.
+
+A. Network function
+B. Network function modules
+C. NFVI
+D. None of the above<term>C<row>( 2 answers )
+In Reverse-Path Broadcasting (RPB) scenario, assume each router knows current shortest path to source node. Which of the following statement denotes the router's action
+
+A. If shortest path to source is through different port, router drops the packet
+B. The router stores the packet in a buffer and wait for an explicit routing request from the source
+C. Upon receipt of a multicast packet, router records the packet's destination address and the forwarding port
+D. If shortest path to source is through the same port, router forwards the packet to all other ports<term>AD<row>A peer with which a mobile node is communicating is called
+
+A. Mobile node
+B. Correspondent node
+C. Foreign agent
+D. Home agent<term>B<row>Reverse Path Multicasting (RPM) is used to increase
+
+A. Efficiency
+B. Performance
+C. Accuracy
+D. Strength<term>A<row>In Reverse Path Forwarding, router receives a packet and extracts the
+
+A. Source address
+B. Protocol address
+C. IP address
+D. Standard address<term>A<row>A network can receive a multicast packet from a particular source only through a
+
+A. designated parent resolve
+B. designated parent router
+C. designated protocol router
+D. None of the above<term>B<row>What is the delay in the amount of time for data to travel between two points on a network?
+
+bandwidth
+latency
+goodput
+throughput<term>B<row>What terms represent the maximum and actual speed that can be utilized by a device to transfer data?
+
+bandwidth; throughput
+throughput; bandwidth
+bandwidth; goodput
+throughput; goodput<term>A<row>Which items are collectively referred to as network media?
+
+routers and switches
+wires and radio waves
+firewalls and servers
+PCs and laptops<term>B<row>Which term is used to describe a network device with the primary function of providing information to other devices?
+
+workstation
+console
+server
+client<term>C<row>Which criterion can be used to select the appropriate type of network media for a network?
+
+the types of data that need to be prioritized
+the cost of the end devices that are used in the network
+the number of intermediary devices that are installed in the network
+the environment where the selected medium is to be installed<term>D<row>Which two devices are considered end devices? (Choose two.)
+
+router
+switch
+hub
+laptop
+printer<term>DE<row>Which data unit term and value are correctly matched? (select 4)
+
+A bit = a one or a zero
+A bit = eight bytes
+A byte = a one or a zero
+A byte = eight bits
+A gigabyte = one billion bytes
+A gigabyte = one million bytes
+A megabyte = one million bytes<term>ADEG<row>Which three descriptions of data are correct? (Choose 3.)
+
+Data bits are converted into signals before being transmitted over the medium.
+ASCII is a commonly used code for representing letters, numbers and special characters in bits that can be interpreted by a computer.
+Volunteered data is created and explicitly shared by individuals.
+Inferred data involves information that is captured by recording of actions of individuals, such as location data when using cell phones.<term>ABC<row>When a learner is visiting an e-learning site to learn about networking, the user computer is acting as what type of device?
+
+an intermediary device
+a client
+a web server
+a console
+an email server<term>B<row>What is the internet?
+
+the largest network owned and managed by a company in the US
+an application used to access the World Wide Web
+a worldwide collection of interconnected networks
+the type of physical media used by computers to access the Word Wide Web<term>C<row>What is a technology used in a cellular telephone network?
+
+Bluetooth
+fiber-optic
+Global System for Mobile Communications (GSM)
+Wi-Fi<term>C<row>A wireless network was recently installed in a coffee shop. The coffee shop staff are able to access the Internet but customer mobile devices are not receiving network configuration information. What should be done to correct the problem?
+
+Check the connection of the DNS server to the Internet.
+Provide peripheral devices to customers.
+Make sure the DHCP server is functional.
+Ensure that the default gateway device is working properly.<term>C<row>Which network device is primarily used to translate a domain name to the associated IP address?
+
+router
+DNS server
+DHCP server
+default gateway<term>B<row>Which wireless technology can be used to connect wireless headphones to a computer?
+
+NFC
+Bluetooth
+Wi-Fi
+4G-LTE<term>B<row>Which IP configuration parameter provides the IP address of a network device that a computer would use to access the Internet?
+
+default gateway
+host IP address
+subnet mask
+DNS server<term>A<row>Which type of network component is used to interconnect computing devices?
+
+shared peripheral
+host
+intermediate device
+default gateway<term>C<row>Which menu can be used to access tutorials and more information about the Packet Tracer version?
+
+File
+Extensions
+Help
+Options<term>C<row>What can be created in the Physical Workspace?
+
+a new city or building
+a simulation<term>A<row>Which three features can be seen in the PT Physical View but not the Logical View? (Choose 3.)
+
+device configuration
+ability to power cycle the devices
+link lights
+attached cables
+wiring rack<term>CDE<row>Where can you create a new building and wiring closet?
+
+Logical Workspace
+Physical Workspace
+Simulation Workspace
+Virtual Workspace<term>B<row>Which type of network cable is commonly used in backbone networks and telephone companies?
+
+coaxial cable
+fiber-optic cable
+twisted-pair cable
+shielded twisted-pair cable<term>B<row>Which type of Ethernet cable should be used to directly connect two devices that both use the same pins for transmitting and receiving data?
+
+straight-through twisted-pair cable
+fiber-optic cable
+coaxial cable
+crossover twisted-pair cable<term>D<row>What are three characteristics of UTP cabling? (Choose three.)
+
+uses light to transmit data
+easiest type of networking cable to install
+commonly used between buildings
+most commonly used networking cable
+susceptible to EMI and RFI<term>BDE<row>Which two criteria are used to help select a network medium for a network? (Choose two.)
+
+the distance the selected medium can successfully carry a signal
+the environment where the selected medium is to be installed
+the number of intermediate devices that are installed in the network
+the types of data that need to be prioritized
+the cost of the end devices that are used in the network<term>AB<row>Which type of network cable contains multiple copper wires and uses extra shielding to prevent interference?
+
+STP
+UTP
+fiber-optic
+coax<term>A<row>Which type of network cable is used to connect the components that make up satellite communication systems?
+
+coaxial
+fiber-optic
+shielded twisted-pair
+unshielded twisted-pair<term>A<row>What are two wiring schemes defined by the TIA/EIA organization for Ethernet installation in homes and businesses? (Choose two.)
+
+UTP
+STP
+T568B
+T568A
+RJ-45<term>CD<row>Which term describes the interference when electrical impulses from one cable cross over to an adjacent cable?
+
+crossover
+crosstalk
+RFI
+collision<term>B<row>What are two sources of electromagnetic interference that can affect data transmissions? (Choose two.)
+
+fluorescent light fixture
+LED monitor
+corded telephone
+infrared remote control
+microwave oven<term>AE<row>What is the purpose of an IP address?
+
+It identifies the physical location of a data center.
+It identifies a location in memory from which a program runs.
+It identifies a return address for replying to email messages.
+It identifies the source and destination of data packets on a network.<term>D<row>What type of network is defined by two computers that can both send and receive requests for resources?
+
+client/server
+peer-to-peer
+enterprise
+campus<term>B<row>Which statement describes the ping and tracert commands?
+
+Tracert shows each hop, while ping shows a destination reply only.
+Tracert uses IP addresses; ping does not.
+Both ping and Tracert can show results in a graphical display.
+ping shows whether the transmission is successful; Tracert does not.<term>A<row>What is an advantage of the peer-to-peer network model?
+
+scalability
+high level of security
+ease of setup
+centralized administration<term>C<row>Which type of network model describes the functions that must be completed at a particular layer, but does not specify exactly how each protocol should work?
+
+TCP/IP model
+protocol model
+reference model
+hierarchical design model<term>C<row>Which three elements do all communication methods have in common? (Choose three.)
+
+transmission medium
+message type
+message source
+message destination
+message data<term>ACD<row>Which three layers of the OSI model make up the application layer of the TCP/IP model? (Choose three.)
+
+application
+presentation
+session
+transport
+data link
+network<term>ABC<row>Which two layers of the OSI model specify protocols that are associated with Ethernet standards? (Choose two.)
+
+pointphysical layer
+transport layer
+data link layer
+session layer<term>AC<row>Which term refers to the set of rules that define how a network operates?
+
+model
+standard
+protocol
+domain<term>B<row>Question 6
+What makes it possible for e-mail to be sent and received on a wide variety of devices, including cell phones, PDAs, laptops, and desktop computers?
+
+All of the devices run the same operating system software.
+There is a single provider of e-mail server software.
+The devices use the same e-mail client software, so they are compatible.
+E-mail software is written using standards and protocols that ensure compatibility.<term>D<row>Question 1
+Which term is used to refer to a Layer 2 PDU?​
+
+packet
+frame
+segment
+bit<term>B<row>When a computer assembles a frame to be sent over the network, what is the maximum size of an Ethernet frame?
+
+64 bytes
+128 bytes
+1024 bytes
+1518 bytes<term>D<row>What are two reasons to create a hierarchical network design for an Ethernet network? (Choose 2.)
+
+It allows for duplicate MAC addresses on the network since they are running out.
+It will help to minimize the amount of broadcast traffic that Ethernet hosts will have to process.
+IP addresses can be used as a physical address to locate the device.
+Locating a host in a smaller network is easier than one large Ethernet network.<term>BD<row>What are the three layers of the hierarchical design model? (Choose 3.)
+
+transport layer
+network access layer
+distribution layer
+core layer
+application layer
+access layer
+internet layer<term>CDF<row>Which layer provides connections to hosts in a local Ethernet network?
+
+application layer
+network access layer
+core layer
+network layer
+internet layer
+access layer<term>F<row>What address type does a switch use to make selective forwarding decisions?
+
+source IP
+destination IP
+source MAC
+destination MAC<term>D<row>What role does a router play on a network?
+
+forwarding Layer 2 broadcasts
+forwarding frames based on a MAC address
+selecting the path to destination networks
+connecting smaller networks into a single broadcast domain<term>C<row>What type of information is contained in a switch MAC table?
+
+switch ports associated with destination MAC addresses
+domain name to IP address mappings
+routes to reach destination networks
+switch ports associated with IP address mappings<term>A<row>Question 4
+What is the purpose of the core layer in the Cisco hierarchical network design model?
+
+network access to end devices
+high-speed backbone switching
+aggregation point for smaller networks
+flow control between networks<term>B<row>A technician is setting up equipment on a network. Which three devices will need IP addresses? (Choose three.)
+
+a wireless mouse
+an IP phone
+a server with two NICs
+a printer with an integrated NIC
+a web camera that is attached directly to a host<term>BCD<row>What are three characteristics of multicast transmission? (Choose three.)
+
+A single packet can be sent to a group of hosts.
+Computers use multicast transmission to request IPv4 addresses.
+The source address of a multicast transmission is in the range of 224.0.0.0 to 224.0.0.255.
+The range of 224.0.0.0 to 224.0.0.255 is reserved to reach multicast groups on a local network.
+Multicast transmission can be used by routers to exchange routing information.<term>ADE<row>What type of message is sent to a specific group of hosts?
+
+unicast
+dynamic
+multicast
+broadcast<term>C<row>What are two differences between binary and decimal numbers? (Choose two.)
+
+Numbers typed on a keyboard are entered as binary and converted to decimal by the computer.
+Decimal numbers are based on powers of 1.
+Decimal numbers include 0 through 9.
+Binary numbers consist of three states: on, off, null. Decimal numbers do not have states.
+Binary numbers are based on powers of 2.<term>CE<row>How many usable hosts are available given a Class C IP address with the default subnet mask?
+
+252
+254
+255
+256<term>B<row>Which network does a host with IP address 172.32.65.13 reside on if it is using a default subnet mask?
+
+172.32.65.0
+172.32.65.32
+172.32.0.0
+172.32.32.0<term>C<row>Which IP address type is intended for a specific host?
+
+broadcast
+multicast
+simulcast
+unicast<term>D<row>What are three private IPv4 address? (Choose three.)
+
+10.1.1.1
+172.16.4.4
+172.32.5.2
+192.168.5.5
+192.167.10.10<term>ABD<row>When IPv4 is configured for a computer on a network, what does the subnet mask identify?
+
+the dynamic subnetwork configuration
+the part of the IP address that identifies the network
+the pool of addresses assigned within the network
+the device that the computer uses to access another network<term>B<row>What is the destination MAC address that is used in a DHCP Discover frame?
+
+255.255.255.255
+1.1.1.1
+AA-AA-AA-AA-AA-AA
+FF-FF-FF-FF-FF-FF<term>D<row>Which destination IPv4 address does a DHCPv4 client use to send the initial DHCP Discover packet when the client is looking for a DHCP server?
+
+127.0.0.1
+224.0.0.1
+255.255.255.255
+the IP address of the default gateway<term>C<row>Which type of packet is sent by a DHCP server after receiving a DHCP Discover message?
+
+DHCP ACK
+DHCP Discover
+DHCP Offer
+DHCP Request<term>C<row>Which three addresses are not allowed to be in the DCHP pool for clients? (Choose 3.)
+
+network address
+network broadcast address
+244.0.0.1
+FF-FF-FF-FF-FF-FF
+router interface address
+any address that has a host portion of .1<term>ABE<row>In which order do the DHCP messages occur when a client and server are negotiating address configuration?
+
+DHCPREQUEST, DHCPDISCOVER, DHCPACK, DHCPOFFER
+DHCPOFFER, DHCPACK, DHCPDISCOVER, DHCPREQUEST
+DHCPACK, DHCPREQUEST, DHCPOFFER, DHCPDISCOVER
+DHCPDISCOVER, DHCPOFFER, DHCPREQUEST, DHCPACK<term>D<row>Which function does NAT perform in a wireless router?
+
+NAT takes a source IP address and translates it to a default gateway address.
+NAT takes a local IP address and translates it to an internal source IP address.
+NAT takes a destination IP address and translates it to a global IP address.
+NAT takes an internal source IP address and translates it to a global IP address.<term>D<row>What is the primary motivation for development of IPv6?
+
+security
+header format simplification
+expanded addressing capabilities
+addressing the need for simplification<term>C<row>How many binary bits exist within an IPv6 address?
+
+32
+48
+64
+128
+256<term>D<row>At which layer of the TCP/IP model does TCP operate?
+
+transport
+application
+internetwork
+network access<term>A<row>Which two protocols are used in the process of sending and receiving emails? (Choose two.)
+
+HTTP
+POP
+SSH
+SMTP
+FTP<term>BD<row>At what layer of the OSI model are port numbers addressed?​
+
+transport
+network
+application
+physical<term>A<row>What is a "best effort" protocol well suited for streaming audio and VoIP?
+
+TCP
+IP
+UDP
+SSH<term>C<row>What is used by TCP and UDP to track multiple individual conversations between clients and servers?​
+
+domain names
+URLs
+IP addresses
+port numbers<term>D<row>Which three pieces of information are identified by a URL? (Choose three.)
+
+the protocol that is being used
+the version of the browser
+the domain name that is being accessed
+the location of the resource
+the MAC address of the web server
+the IP address of the gateway<term>ACD<row>What is the advantage of using SSH over Telnet?
+
+SSH provides secure communications to access hosts.
+SSH operates faster than Telnet.
+SSH is easier to use.
+SSH supports authentication for a connection request.<term>A<row>Which two applications provide virtual terminal access to remote servers? (Choose two.)
+
+Telnet
+DHCP
+DNS
+SSH
+SMTP<term>AD<row>What action does a DNS server take if it does not have an entry for a requested URL?
+
+The server drops the request.
+The server returns a "page not found" response to the client.
+The server checks with another DNS server to see if it has an entry.
+The server assigns a temporary IP address to the name and sends this IP address to the client.<term>C<row>Which three protocols operate at the application layer of the TCP/IP model? (Choose three.)
+
+DHCP
+UDP
+TCP
+ARP
+POP3
+FTP<term>AEF<row>Which communication tool allows multiple users to communicate with each other in real time by using a smartphone application or social media site?
+
+blog
+instant messaging
+email
+web mail<term>B<row>What type of server would use IMAP?
+
+DNS
+DHCP
+email
+FTP
+Telnet<term>C<row>What are three advantages of wireless over wired LAN technology? (Choose three.)
+
+longer transmission distance
+ease of installation
+ease of expansion
+higher level of security
+lower on-going costs<term>BCE<row>What type of device is commonly connected to the Ethernet ports on a home wireless router?
+
+wireless antenna
+LAN device
+cable modem
+DSL modem<term>B<row>Which type of network technology is used for low-speed communication between peripheral devices?
+
+Bluetooth
+802.11
+Ethernet
+channels<term>A<row>What purpose would a home user have for implementing Wi-Fi?​
+
+to connect a keyboard to a PC
+to hear various radio stations
+to connect wireless headphones to a mobile device
+to create a wireless network usable by other devices<term>D<row>What is CSMA/CA on a network?
+
+an access method that is used by any technology that has excessive collisions
+an access method that is used by wireless technology to avoid collisions
+an access method that is used by wired Ethernet technology to avoid collisions
+an access method that is used by wireless technology to avoid duplicate SSIDs<term>B<row>A user wants to connect to a wireless network at a shopping center. What wireless network setting tells the user the name of the network?
+
+domain name
+SSID
+passphrase
+hostname<term>B<row>Which two statements characterize wireless network security? (Choose two.)
+
+Wireless guest mode provides open access to a protected LAN.
+Using the default IP address on an access point makes hacking easier.
+An attacker needs physical access to at least one network device to launch an attack.
+Wireless networks offer the same security features as wired networks offer.
+With SSID broadcast disabled, an attacker must know the SSID to connect.<term>BE<row>Question 3
+What are two types of wired high-speed Internet connections? (Choose two.)
+
+DSL
+dial-up
+cellular
+satellite
+cable<term>AE<row>What can be used to allow visitor mobile devices to connect to a wireless network and restrict access of those devices to only the Internet?
+
+SSH
+guest SSID
+authentication<term>B<row>Which type of device provides an Internet connection through the use of a phone jack?
+
+cable modem
+DSL modem
+satellite modem
+Wi-Fi AP<term>B<row>When is a client considered to be "authenticated" when using MAC address filtering to control network access to a wireless network?
+
+when the client gives the access point the correct secret key
+when the client sends the MAC address to the access point
+when the access point verifies that the MAC address is in the MAC table and sends a confirmation message to the client
+when the access point sends the MAC address to the server and receives notification that the MAC address is a valid one<term>C<row>What type of authentication do most access points use by default?
+
+Open
+PSK
+WEP
+EAP<term>A<row>What wireless router configuration would reduce the risk of outsiders accessing or viewing content from your home network?
+
+IP address
+encryption
+router location
+network name<term>B<row>Which term is used for bulk advertising emails flooded to as many end users as possible?
+
+phishing
+brute force
+spam
+adware<term>C<row>What is a characteristic of a computer worm?
+
+Malicious software that copies itself into other executable programs
+Tricks users into running the infected software
+A set of computer instructions that lies dormant until triggered by a specific event
+Exploits vulnerabilities with the intent of propagating itself across a network<term>D<row>How does a phisher typically contact a victim?
+
+email
+telephone
+adware
+spyware<term>A<row>A network administrator attempted to access the company website and received a "page not found" error. The next day the administrator checked the web server logs and noticed that during the same hour that the site failed to load, there was an unusually large number of requests for the website home page. All of the requests originated from the same IP address. Given this information, what might the network administrator conclude?
+
+It is normal web surfing activity.
+It is likely that someone attempted a DoS attack.
+The link to the website does not have enough capacity and needs to be increased.
+The web server was turned off and was not able to service requests.<term>B<row>Which three attacks exploit vulnerabilities in software? (Choose three.)
+
+viruses
+phishing
+worms
+vishing
+Trojan horses<term>ACE<row>Which type of attack attempts to overwhelm network links and devices with useless data?
+
+virus
+spyware
+brute force
+denial of service<term>D<row>What type of program installs and gathers personal information, including password and account information, from a computer without permission or knowledge of the user?
+
+adware
+pop-ups
+spyware
+pop-unders<term>C<row>What type of attack is the ping of death?
+
+brute force
+virus
+social engineering
+denial of service<term>D<row>True or False?
+Authorized users are not considered a security threat to the network.
+
+true
+false<term>B<row>Which type of attack exploits human behavior to gain confidential information?​
+
+virus
+social engineering
+denial of service
+spyware<term>B<row>Which type of attack involves an attacker using a powerful computer to try a large number of possible passwords in rapid succession to gain access to a system​?
+
+brute force
+phishing
+pretexting
+DDoS<term>A<row>Which two networking devices are used in enterprise networks for providing network connectivity to end devices? (Choose two.)
+
+firewall
+router
+wireless access point
+DNS server
+LAN switch<term>CE<row>Which two protocols can be used to access a Cisco switch for in-band management? (Choose two.)
+
+SSH
+FTP
+Telnet
+DHCP
+SMTP<term>AC<row>Which two files are loaded into RAM of a Cisco switch when it is booted? (Choose two.)
+
+IOS image file
+bootstrap program
+startup configuration file
+file that contains customer settings
+running configuration file<term>AC<row>A Cisco switch has Gigabit Ethernet ports. HostA has a 10/100 Ethernet NIC and HostB has a 10/100/1000 Ethernet NIC. At what speed will each host operate if they are connected to the Gigabit Ethernet ports? (Choose 2.)
+
+Host B will operate at 100Mb/s.
+Host B will operate at 10Mb/s.
+Host A will operate at 100Mb/s.
+Host A will operate at 1000Mb/s.
+Host B will operate at 1000Mb/s.
+Host A will operate at 10Mb/s.<term>CE<row>What is the purpose of the console port?
+
+provide in-band management of the switch
+send data between two host computers
+provide out-of-band management for a router or switch
+to connect the switch to the router<term>C<row>A network administrator is working on a Cisco router. The CLI prompt is Router1(config-if)#. Which operation is the administrator likely to configure next?
+
+the console port
+a LAN interface
+the vty lines<term>B<row>What is the difference between the terms keyword and argument in the IOS command structure?
+
+A keyword is entered with a predefined length. An argument can be any length.
+A keyword is a specific parameter. An argument is not a predefined variable.
+A keyword is required to complete a command. An argument is not.
+A keyword always appears directly after a command. An argument does not.<term>B<row>A network administrator is troubleshooting inter-connection issues between routers. Which show command can be used to check which networks the router is connected?
+
+show ip route
+show interfaces
+show arp
+show protocols<term>A<row>While troubleshooting a network problem, a network administrator issues the show version command on a router. What information can be found by using this command?
+
+the amount of NVRAM, DRAM, and flash memory installed on the router
+the bandwidth, encapsulation, and traffic statistics on each of the interfaces
+the current running configuration
+the MAC address to IP address mapping for connected devices<term>A<row>Which Cisco IOS mode displays a prompt of Router#?
+
+global configuration mode
+setup mode
+user EXEC mode
+privileged EXEC mode<term>D<row>Which command can be used to encrypt all passwords in the configuration file?
+
+service password-encryption
+enable secret
+enable password
+password<term>A<row>Which configuration step should be performed first when enabling SSH on a Cisco device?
+
+Generate RSA key pairs.
+Configure an IP domain name.
+Configure an encrypted password for the console line.
+Disable Telnet on vty lines.<term>B<row>What is the purpose of assigning an IP address to the VLAN1 interface on a Cisco Layer 2 switch?
+
+to enable remote access to the switch to manage it
+to enable the switch to route packets between networks
+to permit IP packets to be forwarded by the switch
+to create a new IP local network on the switch<term>A<row>What is the purpose of configuring a default gateway address on a host?
+
+to identify the logical address of a networked computer and uniquely identify it to the rest of the network
+to provide a permanent address to a computer
+to identify the device that allows local network computers to communicate with devices on other networks
+to identify the network to which a computer is connected<term>C<row>A user calls the help desk to report a workstation problem. Which three questions would produce the most helpful information for troubleshooting? (Choose three.)
+
+If you received an error message, what was it?
+What changes have you made to your workstation?
+Do you have the warranty for your workstation?
+What operating system version is running on your workstation?
+Have you used a network monitoring tool on your workstation?<term>ABD<row>A network administrator can successfully ping the server at www.cisco.com, but cannot ping the company web server located at an ISP in another city. Which tool or command would help identify the specific router where the packet was lost or delayed?
+
+ipconfig
+netstat
+telnet
+traceroute<term>D<row>Which command would a technician use to display network connections on a host computer?
+
+ipconfig
+nslookup
+tracert
+netstat<term>D<row>A customer called the cable company to report that the Internet connection is unstable. After trying several configuration changes, the technician decided to send the customer a new cable modem to try. What troubleshooting technique does this represent?
+
+substitution
+divide-and-conquer
+bottom-up
+top-down<term>A<row>A small office uses a wireless router to connect to a cable modem for Internet access. The network administrator receives a call that one office computer cannot access external websites. The first troubleshooting step that the network administrator performs is to ping the wireless router from the office computer. Which troubleshooting technique does this represent?
+
+divide-and-conquer
+bottom-up
+substitution
+top-down<term>A<row>Using a systematic troubleshooting approach, a help desk technician suspects a problem at Layer 3 of the OSI model. In gathering information, which two questions are associated with Layer 3? (Choose two.)
+
+Is the PC configured for DHCP?
+Does a browser connection to www.cisco.com work?
+From the PC, is the default gateway reachable using the ping command?
+Is there a link light on the network card?
+Is the network cable plugged in?<term>AC<row>A small SOHO uses a wireless integrated router for employee workstations to connect to the Internet. For security consideration, the SSID is not broadcast and the IP address configuration is provided by the DHCP server in the router. An employee reports that the workstation cannot connect to the Internet. A technician verifies that other workstations can successfully connect to the Internet. What are two possible reasons for the problem? (Choose two.)
+
+A default gateway is improperly configured on the wireless router.
+The wireless client is not configured for DHCP.
+An incorrect default gateway is manually configured on the client.
+An invalid SSID is configured.
+A bad cable exists between the client and the integrated router.<term>BD<row>During a move, employee workstations were disconnected from the network and reconnected in new offices. However, after the move a few workstations cannot get a valid IP address. What should be checked first to identify the root cause of the problem?
+
+Check the operation status of the DHCP server.
+Install all software updates.
+Make sure the cables are functional and properly plugged.
+Test if these workstations can ping the default gateway.<term>C<row>The home computer of a user is working properly. However, the user cannot access the Internet. The Internet connection is provided through a cable company. The user cannot identify the cause of the problem. Who should the user contact for further help?
+
+the operating system vendor
+the help line of the cable company
+the help line of the computer manufacturer
+the support web site of the computer vendor<term>B<row>What are two common causes of a physical layer network connectivity problem? (Choose two.)
+
+an Ethernet cable plugged into a wrong port
+a faulty Ethernet cable
+an incorrect default gateway
+a monitor unplugged
+an unassigned IP address<term>AB<row>How does an activity LED on wireless routers indicate that traffic is moving through a port?
+
+by staying a solid green color
+by staying a solid amber color
+by staying turned off
+by flashing<term>D<row>A technician has been asked to troubleshoot a simple network problem that seems to be caused by software. Which troubleshooting approach should be used?
+
+top-down
+substitution
+divide and conquer
+bottom-up<term>A<row>A customer calls the help line to report a computer problem. The help line technician responds and works with the customer for some time. However, the technician cannot identify the root cause of the problem. What should the technician do to help the customer?
+
+Ask for the email address of the customer in order to send all the support documents for the computer.
+Tell the customer that a replacement computer will be shipped immediately.
+Tell the customer that a ticket is created and another technician will contact the user soon.
+Suggest that the customer visit the support website for more detailed information.<term>C<row>A network technician enters the command ipconfig /release followed by ipconfig /renew in order to ensure that the DHCP IP configuration on a workstation is updated. However, the workstation does not receive a valid IP configuration for the network. Which two problems may exist on the network? (Choose two.)
+
+The ipconfig /all command must be issued to restore all IP configurations.
+The gateway router address needs to be updated.
+There is no network connectivity to the DHCP server.
+There is a DHCP server issue.
+The DHCP lease time is misconfigured.<term>CD

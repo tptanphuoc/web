@@ -1,0 +1,358 @@
+[
+    {
+        "Question": "Group members' tone of voice, eye contact,and physical proximity can tell you as much or more about their thoughts and feelings than the words they speak.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "African American and Latino members may be more sensitive to the nonverbal components of messages, whereas European Americans may rely on and trust a member's words to convey meaning.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Denotation, rather than connotation, is more likely to influence how we respond to words.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Semanticist S. I. Hayakawa refers to \"denotation\" as \"the aura of feelings, pleasant or unpleasant, that surround practically all words.\"(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "In connotative language, a word always has only one meaning.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Abstract words refer to ideas or concepts you cannot see or touch, such as dignity, hope, and faith.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Concrete words refer to specific things you perceive with your senses—things you can see, hear, touch, smell, or taste.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Speaking in an active voice (\"Our group has completed the report due next week\") rather than a passive voice (\"The report due next week has been completed by our group\") follows a team talk recommendation.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "In Donnellon's recommendations for effective team talk, you would use the negotiation strategy to ask \"what if\" questions, propose solution criteria, and summarize areas of agreement.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "The 6 dimensions in Donnellon's team talk include conflict management, negotiation, and identification.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "\"Hey Fred, try to find out whether Bob will be able to hang out with us after the meeting is over\" is an example of the social equality dimension of team talk.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "\"Wouldn't it be great if you submitted a plan based on total group consensus?\" is an example of the minimal power differentiation dimensions of team talk.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Effective group members in positions of power engage in team talk by refraining from talking and interrupting more than others do.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Bypassing is the means we use to achieve group goals, the stimulus we use to build group relationships, and the evidence we use to assess group work.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Effective group members who understand the importance of team talk use \"I\" language more than they use \"you\" and \"we\" language.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Group members who look for meaning in the people using words rather than in the words themselves are less likely to bypass or be bypassed.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "The use of jargon is always counterproductive in communication.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "When dealing with a group member who uses abusive language to attack or intimidate others, your textbook suggests asking the person to repeat what he or she has said.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "When dealing with a group member who uses abusive language to attack or intimidate others, your textbook recommends using controlling behaviors such as raising your own voice, swearing, or using sarcasm.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Men tend to language that includes tag questions such as \"Let's move on to the next item on the agenda. Okay?\"(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Male speech is generally characterized asmore direct and forceful than female speech.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Dialects are distinct from the commonly accepted form of a particular language.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "A dialect is the sound of one language imposed on another.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "A consistent finding across several studies is that speakers of Standard American English are judged as more intelligent, ambitious, and successful.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Many middle-class African Americans engage in codeswitching as they speak both Black English and Standard American English.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "\"Those who know do not speak. Those who speak do not know\" is a Chinese proverb that recognizes the power of speech.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Researchers suggest that more than 90% of the meaning generated when interacting with others is conveyed through nonverbal behavior.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Good-looking people tend to make more money and get promoted more often than those with average looks.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Direct and consistent eye contact is insulting to many North Americans.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Emoticons such as J or :-( are very effective substitutes for communicating feelings and emotions in virtual groups.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "If you slouch in your chair, other group members may interpret your posture as lack of interest or dislike for the group.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Touch in groups can result in greater teamwork, solidarity, and sharing among members.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "A number of studies have demonstrated that group members prefer face-to-face seating for cooperative activities.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Members of well-established groups who use Hall's personal zone to communicate with one another will find it difficult to maintain comfortable interaction.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "We usually use Hall's social distance (4 to 8 feet apart) with new acquaintances and strangers.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "Latino, Arab, and Greek group members are usually comfortable with more personal space than a North American.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Sociologist Jack Gibb describes a defensive climate as one in which members devote attention to protecting themselves and defeating their perceived opponents.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "There may be times when a group member may need to behave in a way that creates a defensive climate in order to help a group achieve its goal.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "The dialectic opposite of the defensive behavior Gibb labels as evaluation is a supportive behavior Gibb labels as description.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "A group member engaging in Gibb's supportive behavior labeled empathy might say, \"I can't believe he said that to you. No wonder you're upset.\"(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "According to Jack Gibb's characteristics of supportive and defensive communication climates, control is the opposite of spontaneity.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Groups in supportive climates show evidence of nonverbal immediacy.(T/F)",
+        "Answer": "T"
+    },
+    {
+        "Question": "A group member showing nonverbal immediacy would lean back, sit farther away from members, and rarely make eye contact.(T/F)",
+        "Answer": "F"
+    },
+    {
+        "Question": "Decision making results in a position, judgment, or action.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The process of decision making requires a group to analyze a problem, debate pros and cons, and select and implement a solution.",
+        "Answer": "F"
+    },
+    {
+        "Question": "As a rule, group problem solving generates more ideas and produces better solutions to complex problems.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Voting is the best way to make group decisions.",
+        "Answer": "F"
+    },
+    {
+        "Question": "Voting works best when a group is pressed for time and the issues is not highly controversial.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Consensus occurs when the majority of group members agree to support a decision or action.",
+        "Answer": "F"
+    },
+    {
+        "Question": "When your group is trying to reach consensus, you should not agree to a decision or solution you adamantly dislike and can't possibly support.",
+        "Answer": "T"
+    },
+    {
+        "Question": "False consensus occurs when members give in to group pressure and accept a decision they do not like or support.",
+        "Answer": "T"
+    },
+    {
+        "Question": "A question of policy asks whether something will or will not happen.",
+        "Answer": "F"
+    },
+    {
+        "Question": "A question of value asks whether something good or bad will or will not happen.",
+        "Answer": "F"
+    },
+    {
+        "Question": "\"It just feels like the right thing to do\" describes the thought process of a dependent decision maker.",
+        "Answer": "F"
+    },
+    {
+        "Question": "\"It feels like the right thing to do\" describes the thought process of an intuitive decision maker.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The Standard Agenda is based on John Dewey's Reflective Thinking Process.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Research has identified the Standard Agenda approach as the most effective problem-solving model.",
+        "Answer": "F"
+    },
+    {
+        "Question": "The Standard Agenda requires group members to follow 7 steps that begin with task clarification and end with solution suggestions.",
+        "Answer": "F"
+    },
+    {
+        "Question": "During the fact-finding step of the Standard Agenda, members must answer questions such as \"How serious or widespread is the problem?\" and \"What are the causes of the problem?\"",
+        "Answer": "T"
+    },
+    {
+        "Question": "Analysis paralysis can immobilize a group because members cannot determine the cause of problem or because they cannot figure out a way to change human nature.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The Functional Approach to group problem solving is based on several models including John Dewey's Reflective Thinking Process.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Each step of the Functional Approach to group problem solving should be completed in order.",
+        "Answer": "F"
+    },
+    {
+        "Question": "The Functional Approach to group problem solving claims that communication is the instrument groups use to reach decisions and generate solutions.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The Functional Theory Approach to problem solving emphasizes that group members must identify the resources and research necessary for making a decision before selecting appropriate procedures for developing an effective solution.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The Preparation Function in the Functional Approach to problem solving requires that group members establish and use agreed-upon criteria to evaluate possible solutions.",
+        "Answer": "F"
+    },
+    {
+        "Question": "One of the factors that makes the Single Question Format of group problem solving unique is its focus on creating a collaborative communication climate.",
+        "Answer": "T"
+    },
+    {
+        "Question": "One of the factors that makes the Single Question Format of group problem solving unique is its focus on goal clarity and issue analysis.",
+        "Answer": "T"
+    },
+    {
+        "Question": "One of the factors that makes the Single Question Format of group problem solving unique is its focus on identifying and analyzing possible solutions.",
+        "Answer": "F"
+    },
+    {
+        "Question": "Creativity requires the nonjudgmental process of searching for, separating, and connecting unrelated ideas and elements.",
+        "Answer": "T"
+    },
+    {
+        "Question": "When a group uses creativity to enhance problem solving, insight represents the \"aha\" moment that occurs when a new approach or solution emerges.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The 3 creative problem-solving methods described in your textbook are the Single Question Format, brainstorming, and consensus seeking.",
+        "Answer": "F"
+    },
+    {
+        "Question": "Brainstorming is based on several models including John Dewey's Reflective Thinking Process.",
+        "Answer": "F"
+    },
+    {
+        "Question": "Brainstorming is based on the assumption that quantity of ideas and output breeds quality.",
+        "Answer": "T"
+    },
+    {
+        "Question": "In a brainstorming session, the group should assign someone to write down the group's ideas rather than asking each member to write down all the group's ideas.",
+        "Answer": "T"
+    },
+    {
+        "Question": "\"All Input, No Putdown\" is a characteristic of the Nominal Group Technique (NGT).",
+        "Answer": "F"
+    },
+    {
+        "Question": "Nominal Group Technique is a way of minimizing participation in problem solving and maximizing interpersonal interaction and debate.",
+        "Answer": "F"
+    },
+    {
+        "Question": "The Nominal Group Technique (NGT) is structured so that all group members have the opportunity to share ideas and know that their ideas will be considered by the group as a whole.",
+        "Answer": "T"
+    },
+    {
+        "Question": "In a Nominal Group Technique (DOT) session, each group member writes down his or her ideas before sharing them with others.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Nominal Group Technique is a decision-making tool that helps groups reduce and refine a large number of suggestions into a manageable number of ideas.",
+        "Answer": "F"
+    },
+    {
+        "Question": "Studies of brainstorming and Nominal Group Technique have found that Nominal Group Technique often works better for generating ideas that are both numerous and creative.",
+        "Answer": "T"
+    },
+    {
+        "Question": "DOT is a brainstorming technique intended primarily to generate more ideas.",
+        "Answer": "F"
+    },
+    {
+        "Question": "The Decreasing Options Technique (DOT) is a decision-making tool that helps groups reduce and refine a large number of suggestions into a manageable number of ideas.",
+        "Answer": "T"
+    },
+    {
+        "Question": "The steps in the Decreasing Options Technique should be taken in the following order: generate ideas, sort ideas, post ideas, dot the ideas.",
+        "Answer": "F"
+    },
+    {
+        "Question": "The DOT method works best when a group has generated a significant number of competing ideas and wants to restrain dominant members from exerting too much influence.",
+        "Answer": "T"
+    },
+    {
+        "Question": "In virtual groups, all types of technology are not equally suited to all types of group interaction.",
+        "Answer": "T"
+    },
+    {
+        "Question": "One way of encouraging creativity is to encourage innovation and discourage problem solving through instruction and imitation.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Metaphors can help members explain, understand, guide, and direct creative thinking in ways they would not have thought of otherwise.",
+        "Answer": "T"
+    },
+    {
+        "Question": "Groups should ignore the fact that members may have preexisting preferences about what a group should do.",
+        "Answer": "F"
+    },
+    {
+        "Question": "Politics can impair group problem when, for example, a member who wants to get ahead is reluctant to oppose an idea supported by the boss.",
+        "Answer": "T"
+    }
+]
